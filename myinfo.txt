@@ -1,0 +1,2 @@
+Hello i am dev1 
+i am here to understand merge conflict
